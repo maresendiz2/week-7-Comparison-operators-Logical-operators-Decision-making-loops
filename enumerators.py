@@ -46,4 +46,3 @@ def enumerators():
   # string methods and indexing
   
   # list_names = ["Maverick", "Alice", "Madeline", "Hazel", "Jack", "Meadow", "Thomas", "Emily", "Mills"]
-  

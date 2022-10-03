@@ -9,27 +9,27 @@
 #importing modules
 #work on creating and understanding functions
 
-from decision_making import decisions
-from comparison_operators import comparison
-from dictionaries_loops import dictionaries_loops
-from enumerators import enumerators
-from list_comprehension import list_comprehension
-from logical_operators import logical_operators
+# from decision_making import decisions
+# from comparison_operators import comparison
+# from dictionaries_loops import dictionaries_loops
+# from enumerators import enumerators
+# from list_comprehension import list_comprehension
+# from logical_operators import logical_operators
 from loops import loops
-from min_max import min_max
-from random import random
-from ranges import ranges
-from while_loops import while_loops
-from zip import zip
-decisions()
-comparison()
-dictionaries_loops()
-enumerators()
-list_comprehension()
-logical_operators()
+# from min_max import min_max
+# from random import random
+# from ranges import ranges
+# from while_loops import while_loops
+# from zip import zip
+# decisions()
+# comparison()
+# dictionaries_loops()
+# enumerators()
+# list_comprehension()
+# logical_operators()
 loops()
-min_max()
-random()
-ranges()
-while_loops()
-zip()
+# min_max()
+# random()
+# ranges()
+# while_loops()
+# zip()
